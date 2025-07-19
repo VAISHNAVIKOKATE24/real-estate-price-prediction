@@ -25,6 +25,7 @@ Matplotlib,
 Flask
 
 # 📁 Dataset
-Source: CSV data provided in the tutorial (Bengaluru housing data)
+Source: CSV data (Bengaluru housing data)
+
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/a11a6c33-2647-4582-b2dc-55f57692cf25" />
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/2d906cc5-6a88-4897-9000-7336463fcc3e" />
