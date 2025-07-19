@@ -16,14 +16,15 @@ This project uses machine learning to predict housing prices based on various fe
 ├── utils.py # Helper functions
 
 # 🚀 Run the Web App
-```bash
 python app.py
 
-📊 Technologies Used
+# 📊 Technologies Used
 Python,
 Pandas, NumPy, Scikit-Learn,
 Matplotlib,
 Flask
 
-📁 Dataset
+# 📁 Dataset
 Source: CSV data provided in the tutorial (Bengaluru housing data)
+<img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/a11a6c33-2647-4582-b2dc-55f57692cf25" />
+<img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/2d906cc5-6a88-4897-9000-7336463fcc3e" />
